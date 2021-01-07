@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  BankManager.cpp
+  BankManagerDlg.cpp
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\BankManager (2)\BankManagerDlg.cpp(292,25): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\BankManager (2)\BankManagerDlg.cpp(292,25): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\BankManager (2)\BankManagerDlg.cpp(292,25): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\BankManager (2)\BankManagerDlg.cpp(207,9): warning C4101: 'IDLength' :참조되지 않은 지역 변수입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\BankManager (2)\BankManagerDlg.cpp(315,13): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\BankManager (2)\BankManagerDlg.cpp(441,13): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\BankManager (2)\BankManagerDlg.cpp(439,21): warning C4101: 'recSet' :참조되지 않은 지역 변수입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\BankManager (2)\BankManagerDlg.cpp(905,29): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\BankManager (2)\BankManagerDlg.cpp(922,29): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+  CSocCom.cpp
+  CSocServer.cpp
+  Menu.cpp
+  SAccount.cpp
+  SName.cpp
+  코드를 생성하고 있습니다...
+  BankManager.vcxproj -> C:\Users\ajgkw\Downloads\20200106_MFC_TEST\BankManager (2)\Debug\BankManager.exe

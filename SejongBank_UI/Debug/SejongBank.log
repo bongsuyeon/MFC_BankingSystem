@@ -1,0 +1,87 @@
+﻿  pch.cpp
+  AccountTransfer.cpp
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\AccountTransfer.cpp(86,21): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\AccountTransfer.cpp(86,21): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\AccountTransfer.cpp(86,21): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\AccountTransfer.cpp(88,21): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\AccountTransfer.cpp(88,21): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\AccountTransfer.cpp(88,21): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'CString'입니다.
+  AccountView.cpp
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\AccountView.cpp(60,18): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+  DepositClose.cpp
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\DepositClose.cpp(54,18): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\DepositClose.cpp(80,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\DepositClose.cpp(80,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\DepositClose.cpp(82,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\DepositClose.cpp(82,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'CString'입니다.
+  DepositOpen.cpp
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\DepositOpen.cpp(128,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\DepositOpen.cpp(128,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\DepositOpen.cpp(128,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\DepositOpen.cpp(130,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\DepositOpen.cpp(130,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\DepositOpen.cpp(130,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'CString'입니다.
+  Loan.cpp
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\Loan.cpp(90,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\Loan.cpp(90,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\Loan.cpp(92,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\Loan.cpp(92,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\Loan.cpp(131,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\Loan.cpp(131,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\Loan.cpp(133,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\Loan.cpp(133,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+  Manual.cpp
+  Menu.cpp
+  SavingClose.cpp
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SavingClose.cpp(59,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SavingClose.cpp(59,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SavingClose.cpp(61,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SavingClose.cpp(61,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SavingClose.cpp(76,18): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+  SavingOpen.cpp
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SavingOpen.cpp(173,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SavingOpen.cpp(173,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SavingOpen.cpp(173,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SavingOpen.cpp(175,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SavingOpen.cpp(175,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SavingOpen.cpp(175,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'CString'입니다.
+  SejongBank.cpp
+  SejongBankDlg.cpp
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(323,17): warning C4101: 'timeLength' :참조되지 않은 지역 변수입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(323,36): warning C4101: 'nIndex' :참조되지 않은 지역 변수입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(323,29): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(391,17): warning C4101: 'timeLength' :참조되지 않은 지역 변수입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(391,36): warning C4101: 'nIndex' :참조되지 않은 지역 변수입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(391,29): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(462,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(464,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(466,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(495,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(495,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(497,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SejongBankDlg.cpp(497,19): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+  SignUp.cpp
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(99,18): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(146,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(146,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(146,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 9의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(146,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 10의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(146,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 11의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(148,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(148,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 9의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(148,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 10의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(148,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 11의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(148,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 12의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(150,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 8의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(150,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 9의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(150,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 10의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(150,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 11의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(150,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 12의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(152,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 9의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(152,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 10의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(152,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 11의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(152,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 12의 형식이 'CString'입니다.
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\SignUp.cpp(152,20): warning C4477: 'sprintf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 13의 형식이 'CString'입니다.
+  SocCom.cpp
+  코드를 생성하고 있습니다...
+  SejongBank.vcxproj -> C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\Debug\SejongBank.exe

@@ -1,0 +1,2 @@
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\Debug\SejongBank.exe
+C:\Users\ajgkw\Downloads\20200106_MFC_TEST\SejongBank_UI (2)\Debug\SejongBank.pdb
